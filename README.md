@@ -1,5 +1,5 @@
 
-<b>👋 Hello<b>,</br>
+<font size="+2">👋 Hello</font>,</br>
 -Nice meeting you. I am Flaviu 👦.</br>
 
 

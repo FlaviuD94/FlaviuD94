@@ -4,7 +4,6 @@
 
 
  👀 I’m a self taught human being.</br>
- -🌱 Currently learning React.</br>
  -☝  My every day goal is to be better than yesterday.</br>
  
  -❓Secrets about me:</br>
